@@ -26,7 +26,7 @@ A web app for running a small trucking business. Clients request pickups, an adm
 
 **Built with:** Flask, PostgreSQL, HTML, CSS, JavaScript
 
-### [Society_Localloop: Society Maintenance Reporting System](https://github.com/Deviprasad2212/societyloop-flask)
+### [SocietyLoop: Society Maintenance Reporting System](https://github.com/Deviprasad2212/society_LocalLoop)
 
 A complaint and ticketing system for residential societies. Residents report issues on a floor plan with a photo, an admin reviews each one and turns it into an official report assigned to a worker, and the worker updates the status until it is resolved.
 

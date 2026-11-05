@@ -13,7 +13,7 @@ BSc Computer Science student who enjoys building practical web applications. I l
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Featured project
+## Featured projects
 
 ### [FleetMgr: Fleet Management System](https://github.com/Deviprasad2212/fleet-management-system)
 
@@ -23,6 +23,16 @@ A web app for running a small trucking business. Clients request pickups, an adm
 - Live shipment tracking, trip pricing, payments and printable invoices
 - Billing charts, CSV export and a dark mode
 - Password hashing, CSRF protection and transactional trip assignment
+
+**Built with:** Flask, PostgreSQL, HTML, CSS, JavaScript
+
+### [Society_Localloop: Society Maintenance Reporting System](https://github.com/Deviprasad2212/societyloop-flask)
+
+A complaint and ticketing system for residential societies. Residents report issues on a floor plan with a photo, an admin reviews each one and turns it into an official report assigned to a worker, and the worker updates the status until it is resolved.
+
+- Query to Report to Worker workflow, with duplicate detection and an activity log
+- Roles for residents, admins (Chairman and Secretary) and workers
+- Click-on-floor-plan location picking, with form validation in the browser and on the server
 
 **Built with:** Flask, PostgreSQL, HTML, CSS, JavaScript
 
@@ -37,7 +47,3 @@ A web app for running a small trucking business. Clients request pickups, an adm
 I'm open to collaborating on projects and to internship opportunities.
 
 [![Email](https://img.shields.io/badge/Email-deviprasad2212%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deviprasad2212@gmail.com)
-<!---
-Deviprasad2212/Deviprasad2212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
